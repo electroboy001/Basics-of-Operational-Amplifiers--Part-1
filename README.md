@@ -36,4 +36,6 @@ https://jlcpcb.com/see
 
 <img width="331" alt="ice_screenshot_20221225-165604" src="https://user-images.githubusercontent.com/97245507/209473739-477377a1-ca41-4235-94b3-80ee4840409e.png">
 
-This is the first version of kit and hope you will like this download the Gerber files from here. I will publish the full review and assembly in an another tutorial. You can use JLCPCB PCB prototyping and SMT assembly service to order the PCB. Register using this link to JLCPCB and get $54 new user coupons. https://jlcpcb.com/see
+This is the first version of kit and hope you will like this download the Gerber files from here. I will publish the full review and assembly in an another tutorial.
+https://drive.google.com/drive/folders/1Vpp76wFc83sBjfQjBeu9k2Eu0I2k6LEM?usp=sharing
+You can use JLCPCB PCB prototyping and SMT assembly service to order the PCB. Register using this link to JLCPCB and get $54 new user coupons. https://jlcpcb.com/see
