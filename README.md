@@ -6,6 +6,8 @@ Operational amplifiers are awesome, they are used to design a lot of circuits. A
 
 Operational amplifier has two terminals which are known as inverting and non-inverting. Inverting terminal is represented by minus and non-inverting by a plus. There is a phase shift of 180 degrees at the minus terminal and hence referred as inverting.
 
+<img width="430" alt="PINS" src="https://user-images.githubusercontent.com/97245507/209473635-04502e0b-bcd8-4d40-909f-1a538d18d18e.png">
+
 The open loop gain of an operational amplifier is in the order of Mega. Quite high values but the overall output is then restricted by the supply. At this voltage the output becomes saturated which is known as +Vsat and -Vsat in an operational amplifier.
 
 Let’s talk more about this saturation and open loop gain. You can see here a basic diagram of the operational amplifier. This one has 5 terminals, 2 are the main plus minus signal input( Non-inverting and Inverting), there is one output and 2 power inputs. These power input terminals are known as +VCC and -VEE. Generally for simple single power supply use we can connect the -VEE to Ground. But practical solution of working is defining a 3rd terminal which is in the middle of two voltages (reference). Which may be discussed in next lectures of the same topic.
